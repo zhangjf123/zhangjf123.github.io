@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be811a20-050f-4a4d-ba09-d4c6ae4aa395" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZK5041XJH5-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZK5042XJH15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZK5115XYL1-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZK5126XYL5ykc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZK5180XYL4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZK5180XYL5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZK5180XYL5fk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cxc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fzc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jhc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tjc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zkylc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cpys.html" beforeDir="false" afterPath="$PROJECT_DIR$/cpys.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,25 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jhc.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jhc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="573" column="7" lean-forward="true" selection-start-line="573" selection-start-column="7" selection-end-line="573" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#font#0;n#p#1;n#li#5;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lxwm.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lxwm.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="193" column="51" lean-forward="true" selection-start-line="193" selection-start-column="51" selection-end-line="193" selection-end-column="51" />
+            <state relative-caret-position="256">
+              <caret line="66" selection-start-line="66" selection-end-line="104" />
               <folding>
                 <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -193,11 +160,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZK5041XJH5-1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZK5041XJH5-1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ZK5041XJH5-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="1133" column="32" lean-forward="true" selection-start-line="1133" selection-start-column="32" selection-end-line="1133" selection-end-column="32" />
+            <state relative-caret-position="346">
+              <caret line="1129" lean-forward="true" selection-start-line="1129" selection-end-line="1129" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -245,6 +212,19 @@
                 <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#form#0;n#div#1;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#form#0;n#div#1;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#td#1;n#tr#5;n#table#0;n#form#0;n#div#1;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpys.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cpys.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -375,7 +355,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>class=&quot;botm</find>
-      <find>class=&quot;top</find>
       <find>class=&quot;bot</find>
       <find>one1</find>
       <find>setTab</find>
@@ -385,6 +364,7 @@
       <find>baidu</find>
       <find>ZK5126XYL5ykc</find>
       <find>/products/</find>
+      <find>class=&quot;top</find>
     </findStrings>
     <replaceStrings>
       <replace>./</replace>
@@ -396,7 +376,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cpys.html" />
         <option value="$PROJECT_DIR$/cxc.html" />
         <option value="$PROJECT_DIR$/fwcn.html" />
         <option value="$PROJECT_DIR$/fwxm.html" />
@@ -415,6 +394,7 @@
         <option value="$PROJECT_DIR$/ZK5180XYL5.html" />
         <option value="$PROJECT_DIR$/ZK5042XJH15.html" />
         <option value="$PROJECT_DIR$/ZK5041XJH5-1.html" />
+        <option value="$PROJECT_DIR$/cpys.html" />
       </list>
     </option>
   </component>
@@ -488,12 +468,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536397092247</updated>
-      <workItem from="1536397094641" duration="2375000" />
+      <workItem from="1536397094641" duration="2598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2375000" />
+    <option name="totallyTimeSpent" value="2598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="195" y="6" width="1786" height="1018" extended-state="0" />
@@ -525,17 +505,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cpys.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="635" column="16" lean-forward="true" selection-start-line="635" selection-start-column="16" selection-end-line="635" selection-end-column="16" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cxc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="623">
@@ -920,19 +889,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="193" column="51" lean-forward="true" selection-start-line="193" selection-start-column="51" selection-end-line="193" selection-end-column="51" />
-          <folding>
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ZK5180XYL5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -1042,8 +998,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ZK5041XJH5-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="1133" column="32" lean-forward="true" selection-start-line="1133" selection-start-column="32" selection-end-line="1133" selection-end-column="32" />
+        <state relative-caret-position="346">
+          <caret line="1129" lean-forward="true" selection-start-line="1129" selection-end-line="1129" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1091,6 +1047,30 @@
             <element signature="n#style#0;n#td#0;n#tr#3;n#table#0;n#form#0;n#div#1;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#form#0;n#div#1;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#td#1;n#tr#5;n#table#0;n#form#0;n#div#1;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="66" selection-start-line="66" selection-end-line="104" />
+          <folding>
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpys.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
